@@ -11,7 +11,7 @@ import AdminHome from './pages/AdminHome';
 import Settings from './pages/Settings';
 import AllReservations from './pages/AllReservations';
 import AllUsers from './pages/AllUsers';
-import Statistics from './pages/statistics';
+import Statistics from './pages/Statistics';
 import SingleAppointments from './pages/SingleAppointments';
 import ForgotPassword from './pages/ForgotPassword';
 
